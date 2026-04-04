@@ -92,20 +92,20 @@ _**Note:** Access to the weekly job lists and the full archive is available with
 
 # 🏢 Companies hiring internationally
 
-| Company name | Location(s) | Careers page |  
-|-------|--------------|---------------|
-| Applike Group | Hamburg 🇩🇪 | https://applike-group.com/jobs |
-| BandLab | Singapore 🇸🇬 | https://www.bandlab.com/careers |
-| Betsson Group | Ta' Xbiex (Malta) 🇲🇹 | https://www.betssongroup.com/career/available-jobs |
-| BlaBlaCar | Paris 🇫🇷 | https://blog.blablacar.com/dreamjobs |
-| Blinkist | Berlin 🇩🇪 | https://www.blinkist.com/en/jobs |
-| Bol.com | Utrecht 🇳🇱 | https://careers.bol.com/en/jobs |
-| Byborg Enterprises | Luxembourg 🇱🇺 <br> Budapest 🇭🇺 | https://careers.smartrecruiters.com/DoclerHolding |
-| Catawiki | Amsterdam 🇳🇱 <br> Lisbon 🇵🇹 | https://catawiki.careers/vacancies |
-| CloudLinux | Remote 🌍 | https://www.cloudlinux.com/about-us-company-jobs |
-| Coolblue | Rotterdam 🇳🇱 | https://www.careersatcoolblue.com |
-| Creative Fabrica | Amsterdam 🇳🇱 | https://boards.eu.greenhouse.io/creativefabrica |
-| Cube Dev | San Francisco 🇺🇸 | https://cube.dev/careers |
+| Company name | Location(s) | Careers page |  apply | 
+|-------|--------------|---------------| -------| 
+| Applike Group | Hamburg 🇩🇪 | https://applike-group.com/jobs | ✅ | 
+| BandLab | Singapore 🇸🇬 | https://www.bandlab.com/careers |✅ | 
+| Betsson Group | Ta' Xbiex (Malta) 🇲🇹 | https://www.betssongroup.com/career/available-jobs |✅ | 
+| BlaBlaCar | Paris 🇫🇷 | https://blog.blablacar.com/dreamjobs |✅ | 
+| Blinkist | Berlin 🇩🇪 | https://www.blinkist.com/en/jobs |✅ | 
+| Bol.com | Utrecht 🇳🇱 | https://careers.bol.com/en/jobs |✅ | 
+| Byborg Enterprises | Luxembourg 🇱🇺 <br> Budapest 🇭🇺 | https://careers.smartrecruiters.com/DoclerHolding |✅ | 
+| Catawiki | Amsterdam 🇳🇱 <br> Lisbon 🇵🇹 | https://catawiki.careers/vacancies |✅ | 
+| CloudLinux | Remote 🌍 | https://www.cloudlinux.com/about-us-company-jobs |✅ | 
+| Coolblue | Rotterdam 🇳🇱 | https://www.careersatcoolblue.com |✅ | 
+| Creative Fabrica | Amsterdam 🇳🇱 | https://boards.eu.greenhouse.io/creativefabrica |✅ | 
+| Cube Dev | San Francisco 🇺🇸 | https://cube.dev/careers |✅ | 
 | e-bot7 | Munich 🇩🇪 | https://e-bot7.com/careers |
 | Elements | Almere 🇳🇱 | https://www.elements.nl/en/careers |
 | ePages | Hamburg 🇩🇪 | https://epages.com/en/career |
