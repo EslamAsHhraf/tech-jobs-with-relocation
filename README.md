@@ -106,16 +106,16 @@ _**Note:** Access to the weekly job lists and the full archive is available with
 | Coolblue | Rotterdam 🇳🇱 | https://www.careersatcoolblue.com |✅ | 
 | Creative Fabrica | Amsterdam 🇳🇱 | https://boards.eu.greenhouse.io/creativefabrica |✅ | 
 | Cube Dev | San Francisco 🇺🇸 | https://cube.dev/careers |✅ | 
-| e-bot7 | Munich 🇩🇪 | https://e-bot7.com/careers |
-| Elements | Almere 🇳🇱 | https://www.elements.nl/en/careers |
-| ePages | Hamburg 🇩🇪 | https://epages.com/en/career |
+| e-bot7 | Munich 🇩🇪 | https://e-bot7.com/careers |✅ | 
+| Elements | Almere 🇳🇱 | https://www.elements.nl/en/careers |✅ | 
+| ePages | Hamburg 🇩🇪 | https://epages.com/en/career |✅ | 
 | EPAM | United States 🇺🇸 | https://www.epam.com/careers/job-listings |
-| EVBox | Amsterdam 🇳🇱 | https://evbox.com/en/about/careers |
-| Exness | Limassol 🇨🇾 | https://exness.bamboohr.com/jobs |
-| FINN | Munich 🇩🇪 | https://www.finn.auto/careers |
-| Flow Traders | Amsterdam 🇳🇱 <br> Hong Kong 🇭🇰 | https://www.flowtraders.com/careers |
-| foodspring | Berlin 🇩🇪 | https://www.researchgate.net/careers |
-| FxPro | Limassol 🇨🇾 | http://www.fxpro.com/careers |
+| EVBox | Amsterdam 🇳🇱 | https://evbox.com/en/about/careers |✅ |
+| Exness | Limassol 🇨🇾 | https://exness.bamboohr.com/jobs |✅ |
+| FINN | Munich 🇩🇪 | https://www.finn.auto/careers | ✅ |
+| Flow Traders | Amsterdam 🇳🇱 <br> Hong Kong 🇭🇰 | https://www.flowtraders.com/careers |✅ |
+| foodspring | Berlin 🇩🇪 | https://www.researchgate.net/careers |✅ |
+| FxPro | Limassol 🇨🇾 | http://www.fxpro.com/careers |✅ |
 | GeoPhy | The Hague 🇳🇱 | https://geophy.com/careers |
 | Gnosis | Berlin 🇩🇪 | https://gnosis.io/careers |
 | Greentube | Vienna 🇦🇹 | https://www.greentube.com/careers |
