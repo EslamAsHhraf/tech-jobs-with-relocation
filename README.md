@@ -116,16 +116,16 @@ _**Note:** Access to the weekly job lists and the full archive is available with
 | Flow Traders | Amsterdam 🇳🇱 <br> Hong Kong 🇭🇰 | https://www.flowtraders.com/careers |✅ |
 | foodspring | Berlin 🇩🇪 | https://www.researchgate.net/careers |✅ |
 | FxPro | Limassol 🇨🇾 | http://www.fxpro.com/careers |✅ |
-| GeoPhy | The Hague 🇳🇱 | https://geophy.com/careers |
-| Gnosis | Berlin 🇩🇪 | https://gnosis.io/careers |
-| Greentube | Vienna 🇦🇹 | https://www.greentube.com/careers |
-| HENNGE | Tokyo 🇯🇵 | https://recruit.hennge.com/en/mid-career |
-| Highsnobiety | Berlin 🇩🇪 | https://company.highsnobiety.com/jobs |
-| HomeToGo | Berlin 🇩🇪  <br> Lithuania (Kaunas, Vilnius) 🇱🇹| https://www.hometogo.com/careers |
-| HousingAnywhere | Rotterdam 🇳🇱 | https://careers.housinganywhere.com |
-| Intropic | London 🇬🇧 | https://jobs.lever.co/intropic |
-| JOIN | Berlin 🇩🇪 | https://join.com/companies/join |
-| Journi | Vienna 🇦🇹 | https://www.journiapp.com/careers |
+| GeoPhy | The Hague 🇳🇱 | https://geophy.com/careers |✅ |
+| Gnosis | Berlin 🇩🇪 | https://gnosis.io/careers |✅ |
+| Greentube | Vienna 🇦🇹 | https://www.greentube.com/careers |✅ |
+| HENNGE | Tokyo 🇯🇵 | https://recruit.hennge.com/en/mid-career |✅ |
+| Highsnobiety | Berlin 🇩🇪 | https://company.highsnobiety.com/jobs |✅ |
+| HomeToGo | Berlin 🇩🇪  <br> Lithuania (Kaunas, Vilnius) 🇱🇹| https://www.hometogo.com/careers |✅ |
+| HousingAnywhere | Rotterdam 🇳🇱 | https://careers.housinganywhere.com |✅ |
+| Intropic | London 🇬🇧 | https://jobs.lever.co/intropic |✅ |
+| JOIN | Berlin 🇩🇪 | https://join.com/companies/join |✅ |
+| Journi | Vienna 🇦🇹 | https://www.journiapp.com/careers |✅ |
 | Jumbo | Veghel 🇳🇱 | https://jobs.jumbo.com/en/tech |
 | Just Eat Takeaway.com | Amsterdam 🇳🇱 <br> London 🇬🇧 | https://careers.justeattakeaway.com/global/en |
 | Lemonade | Amsterdam 🇳🇱 | https://makers.lemonade.com |
