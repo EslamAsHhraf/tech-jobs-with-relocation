@@ -127,7 +127,7 @@ _**Note:** Access to the weekly job lists and the full archive is available with
 | JOIN | Berlin 🇩🇪 | https://join.com/companies/join |✅ |
 | Journi | Vienna 🇦🇹 | https://www.journiapp.com/careers |✅ |
 | Jumbo | Veghel 🇳🇱 | https://jobs.jumbo.com/en/tech |
-| Just Eat Takeaway.com | Amsterdam 🇳🇱 <br> London 🇬🇧 | https://careers.justeattakeaway.com/global/en |
+| Just Eat Takeaway.com | Amsterdam 🇳🇱 <br> London 🇬🇧 | https://careers.justeattakeaway.com/global/en |✅ |
 | Lemonade | Amsterdam 🇳🇱 | https://makers.lemonade.com |
 | Lightspeed | Auckland 🇳🇿 | https://boards.greenhouse.io/lightspeedhq |
 | LINE Fukuoka | Fukuoka 🇯🇵 | https://linefukuoka.co.jp/en/career/engineer |
@@ -146,7 +146,7 @@ _**Note:** Access to the weekly job lists and the full archive is available with
 | Optum | Ireland (Dublin, Letterkenny) 🇮🇪 | https://careers.unitedhealthgroup.com/optum-ireland |
 | Oxbotica | Oxford 🇬🇧 | https://www.oxbotica.com/our-people |
 | PayPay | Tokyo 🇯🇵 | https://boards.greenhouse.io/paypay |
-| Payrails | Berlin 🇩🇪 | https://www.payrails.com/careers |
+| Payrails | Berlin 🇩🇪 | https://www.payrails.com/careers |✅ |
 | PhotoRoom | Paris 🇫🇷 | https://jobs.lever.co/photoroom |
 | Picnic | Amsterdam 🇳🇱 | https://picnic.app/careers/all-jobs |
 | Procreate | Hobart 🇦🇺 | https://procreate.com/careers |
